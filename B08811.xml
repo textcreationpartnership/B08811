@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>You perceive by His Majesties letters patents for rebuilding the Cathedral Church of St. Pauls how zealously His Majesty is concerned to have this so pious and charitable work effectually carried on ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08811</idno>
+            <idno type="STC">Wing C5674A</idno>
+            <idno type="STC">ESTC R174214</idno>
+            <idno type="EEBO-CITATION">61296947</idno>
+            <idno type="OCLC">ocm 61296947</idno>
+            <idno type="VID">180517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180517)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2832:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>You perceive by His Majesties letters patents for rebuilding the Cathedral Church of St. Pauls how zealously His Majesty is concerned to have this so pious and charitable work effectually carried on ...</title>
+                  <author>Compton, Henry, 1623-1713.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Bishop Henry Compton by Wing. Dated at end: xiv. Jun. 1678.</note>
+                  <note>Title from first words of text.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Birmingham Central Library (Birmingham, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Paul's Cathedral (London, England) --  Early works to 1800.</term>
+               <term>Cathedrals --  England --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180517:1" rendition="simple:additions"/>
+            <p>YOU perceive by His Majeſties Letters Patents for rebuilding the Cathedral Church of St. <hi>Pauls,</hi> how zealouſly His Majeſty is con<g ref="char:EOLhyphen"/>cerned to have this ſo pious and charitable work effectually car<g ref="char:EOLhyphen"/>ried on: And to that end how earneſtly both by His Royal Grant and Example He recommends it to all <hi>Cities, Towns</hi> and <hi>Pariſhes,</hi> throughout His Kingdom of <hi>England</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>In purſuance of this His Majeſties pious intention, and that it may have its deſired effect, it will be requiſite not only to vindicate the piety of this deſign, but alſo the neceſſity and reaſonableneſs of ſo general a Contribution towards the accompliſhing of it. For beſides the Objections againſt ſo good a work, proceeding from diſaffection to Religion in ſome, and from a covetous and ſor<g ref="char:EOLhyphen"/>did diſpoſition of mind in others, there are likewiſe theſe <hi>Two</hi> great prejudices againſt it, which have too far poſſeſſed the minds even of better diſpoſed per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p n="1">I. That the ſumptuouſneſs and magnificence of Churches is not at all ſutable to the times of the Goſpel, nor according to the ſimplicity of the primitive Chriſtian-worſhip.</p>
+            <p n="2">II. That the Church of St. <hi>Pauls,</hi> belonging only to the City and Dioceſs of <hi>London,</hi> ought to be rebuilt ſolely at their charge, without having recourſe to ſo extraordinary a way of ſupply and contribution from others who are no way concerned in it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> 
+               <hi>Firſt,</hi> It is objected againſt the work it ſelf, That the ſumptuouſneſs and magnificence of Temples, and ſo much ſplendor in the outward circumſtances of Gods worſhip, is <hi>Jewiſh</hi> and ceremonial, and not ſo ſutable to the ſpiritual na<g ref="char:EOLhyphen"/>ture and deſign of the Goſpel, and the worſhip thereby required, which conſiſts in the inward purity of our hearts, and the devotion of our minds and ſpirits: Nor ſo agreeable to the ſimplicity of the Primitive Chriſtianity<g ref="char:punc">▪</g> which in things of this nature contained it ſelf within the bounds of neceſſity and con<g ref="char:EOLhyphen"/>venience; and therefore whatever is beyond theſe, may juſtly be deemed ſuper<g ref="char:EOLhyphen"/>fluous, and might much better be employed in Alms and works of Charity.</p>
+            <p>For the removal of this prejudice we may pleaſe to conſider,</p>
+            <p n="1">1. That the publick worſhip of God is a moral duty, founded in the light of nature, and the common reaſon of mankind.</p>
+            <p n="2">2. That the publick worſhip of God, though it doth ſuppoſe and require in<g ref="char:EOLhyphen"/>ward and ſpiritual devotion, yet as <hi>publick</hi> is neceſſarily external, and as ſuch ought to expreſs, in the beſt manner we are able, that inward honour and reve<g ref="char:EOLhyphen"/>rence which we pay to the Divine Majeſty: And therefore that the circumſtan<g ref="char:EOLhyphen"/>ces of it ſhould not only be decent, but very ſolemn and magnificent, the light of nature ſeems plainly to require, and the Goſpel doth no where gainſay. And that reſolution of <hi>David,</hi> that he <hi>he would not offer to the Lord his God of that which coſt him nothing;</hi> and the declaration which he afterwards made concerning the building of the Temple, that <hi>the Houſe which is to be built to the Lord muſt be exceeding magnifical,</hi> was not a piece of ceremonial piety, but grounded upon a moral and eternal reaſon, of equal force in all ages and times, <hi>namely</hi> that which <hi>Solomon</hi> his Son gave to King <hi>Hiram</hi> why he deſign<g ref="char:EOLhyphen"/>ed ſo magnificent a Temple, that it might be in ſome meaſure ſutable to the Greatneſs and Majeſty of that God who was to be worſhipped in it: <hi>The Houſe</hi> (ſayes he) <hi>which I build is great, for great is our God above all gods. Chriſti<g ref="char:EOLhyphen"/>ans</hi> indeed are not tyed to one place of worſhip, as the <hi>Jews</hi> were; but they are obliged to honour God as much as they, and to declare their high regard and eſteem of ſo glorious a Majeſty, by all outward fitting teſtimonies of reſpect and reverence.</p>
+            <p n="3">
+               <pb facs="tcp:180517:2" rendition="simple:additions"/>3. That the mean eſtate and circumſtances of Gods publick worſhip in the beginnings of Chriſtianity, was not the effect of choice but of neceſſity, and enforced upon Chriſtians by their poverty and perſecution; by reaſon where<g ref="char:EOLhyphen"/>of their worſhip was not only without ſplendor and magnificence, but with<g ref="char:EOLhyphen"/>out ordinary decency and the common conveniences of time and place; being uſually performed in the night, in Chambers, and Grotts, and ſecret places; not becauſe they thought this beſt, but becauſe they could then do no better: As they ſufficiently teſtified ſo ſoon as they were free from perſecution, when every where with great zeal they raiſed ſtately ſtructures for the publick wor<g ref="char:EOLhyphen"/>ſhip of God, and ſpared no coſt to that purpoſe; believing it to be highly for the honour of Chriſt and his Religion, that men ſhould declare their re<g ref="char:EOLhyphen"/>gard to Almighty God and the ſolemnity of his worſhip in this way. And ſurely they who from the obſcurity and meanneſs of the places of publick wor<g ref="char:EOLhyphen"/>ſhip in the Primitive times, would draw a pattern for Churches in ſucceeding ages, may do well to conſider, whether they would be willing that the pover<g ref="char:EOLhyphen"/>ty of the firſt Chriſtians ſhould be made the meaſure and ſtandard of mens eſtates in all ages; becauſe the force of the argument from bare primitive ex<g ref="char:EOLhyphen"/>ample is the very ſame in both caſes. God is pleaſed to accept of that in caſe of neceſſity which he will diſdain where men have the ability and opportunity to ſerve him after a better manner: While the People of <hi>Iſrael</hi> were in a perſecuted and unſetled condition, God was content that his Ark ſhould be placed in a Tabernacle; but when he had <hi>given them reſt on every ſide,</hi> then <hi>David,</hi> from the natural reaſon and congruity of the thing, concluded it fit <hi>to build a Houſe of reſt for the Ark of the Covenant of the Lord,</hi> and that <hi>ex<g ref="char:EOLhyphen"/>ceeding magnificent:</hi> And God approved of his intention, telling him that <hi>he did well that it was in his heart to build ſuch an Houſe to the name of the Lord.</hi>
+            </p>
+            <p n="4">4. To warn us for ever againſt grudging at any extraordinary expence for the honour of Religion, as needleſs and ſuperfluous; and eſpecially from cloak<g ref="char:EOLhyphen"/>ing our covetouſneſs with a pretence of charity to the poor: we may do well to conſider how ſeverely our Saviour reprehends his own Diſciples for mur<g ref="char:EOLhyphen"/>muring at that coſt which the devout woman beſtowed upon the Temple of his Body in pouring upon it an Oyntment of ſo great price: <hi>To what purpoſe</hi> (ſaid they) <hi>is this waſte? this Oyntment might have been ſold for much, and given to the poor.</hi> But our Saviour ſharply reproves this ſordid diſpoſition of theirs; and what they called <hi>waſte,</hi> he calls <hi>a good work,</hi> ſuch as in its pro<g ref="char:EOLhyphen"/>per ſeaſon is no leſs pleaſing to God than charity to the poor. And to teſtifie his high eſteem and acceptance of it, he took particular care to have it record<g ref="char:EOLhyphen"/>ed in the Hiſtory of his own Life, that together with his Doctrine and Mira<g ref="char:EOLhyphen"/>cles the memorial of it might be celebrated in all ages to the end of the world: hereby teaching us, that we ought, under the Goſpel, to honour God with our ſubſtance as well as to relieve the poor, and that magnificent acts of Piety have their place no leſs in the Chriſtian Religion than the moſt liberal deeds of Charity.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> 
+               <hi>Secondly,</hi> It is objected againſt the general extent of this Contribution, That the Church of St. <hi>Pauls</hi> belonging only to the City and Dioceſs of <hi>London,</hi> ought to be rebuilt ſolely at their charge, without having recourſe to ſo ex<g ref="char:EOLhyphen"/>traordinary a way of ſupply from others who are no ways concerned in it.</p>
+            <p>In anſwer to this Objection be pleaſed to conſider,</p>
+            <p n="1">1. That the Inhabitants of <hi>London</hi> were not only exceeding great ſufferers by the late dreadful Fire, but have ſince been at a vaſt and incredible charge in rebuilding of their own houſes and Pariſh-Churches, their Hoſpitals, Halls and Royal Exchange, and in ſeveral other publick works to the great honour and advantage of the City, and to the wonder and aſtoniſhment of the world,
+<pb facs="tcp:180517:2"/> that in ſo ſhort a ſpace ſo great a City ſhould riſe ſo beautiful and glorious out of ſuch vaſt and diſmal ruines.</p>
+            <p n="2">2. That the City of <hi>London</hi> and Counties adjoyning have done for ſeveral years, and ſtill do, towards this work, pay a particular Tax upon all the Coals brought into the Port of <hi>London:</hi> Beſides which it is not doubted but they will be very exemplary in their voluntary contributions thereto.</p>
+            <p n="3">3. That the City of <hi>London</hi> hath ever been found very charitable and bountiful, upon all occaſions, towards the rebuilding of Churches and Towns in the Countrey, and the repairing of the fortunes of particular perſons, that have been ruined by the like calamity of Fire: For which cauſe they hope it will not be thought unreaſonable in them, for once to crave and expect the aſ<g ref="char:EOLhyphen"/>ſiſtance of the Countrey upon ſo preſſing and extraordinary an occaſion, when they are utterly unable alone to ſupport the burden and to defray the mighty charge of ſo great a work.</p>
+            <p n="4">4. That the rebuilding of this <hi>Church</hi> is of very publick concernment, and the whole Nation in ſome ſort intereſted in it. Our Kings have uſed upon ex<g ref="char:EOLhyphen"/>traordinary occaſions to reſort to it, there to pay their ſolemn acknowledge<g ref="char:EOLhyphen"/>ments to Almighty God for publick bleſſings and deliverances granted to this Nation: And the Preachers there have always been particularly appointed and choſen from both the Univerſities of this Realm, and from all parts of the King<g ref="char:EOLhyphen"/>dom. And the glory of the work will alſo redound to the whole Nation; to which it will not only be a ſingular ornament, but likewiſe a ſtanding monu<g ref="char:EOLhyphen"/>ment of the publick affection and zeal of this Proteſtant Kingdom to piety and good works.</p>
+            <p>Which laſt conſideration ought to have the greater force with us, becauſe at this time, as much as ever, the Proteſtant Religion ſtands upon its reputati<g ref="char:EOLhyphen"/>on, and ſtands in need of it too. And therefore every one ought, with more than ordinary zeal, to be concerned for the carrying on of this work; not on<g ref="char:EOLhyphen"/>ly for the honour of our Nation and the credit of our common Chriſtianity, but alſo of our Reformed Religion: That there may be no pretence to up<g ref="char:EOLhyphen"/>braid us that error and ſuperſtition could make men more zealous of good works than the Doctrine of the true Religion; and that our Adverſaries of <hi>Rome</hi> may be convinced, that our Piety is as generous and charitable as theirs, but would not be ſo arrogant and preſumptuous; and that whilſt we diſclaim the merit, yet we do moſt ſtedfaſtly believe the obligation and neceſſity of good works.</p>
+            <div type="part">
+               <pb facs="tcp:180517:3"/>
+               <head>For the ſatisfaction of all Perſons concerning the preſent ſtate of the Building of the ſaid Church, the following Abſtract of it is here<g ref="char:EOLhyphen"/>unto annexed.</head>
+               <p>
+                  <table>
+                     <head>S<hi rend="sup">t</hi> PAUL'S Church, LONDON. A Brief Account of the Receipts and Disburſements for the Re<g ref="char:EOLhyphen"/>building the ſaid Church.</head>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">l.</cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">l.</cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">l.</cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                     </row>
+                     <row>
+                        <cell>Remained in Caſh in the Cham<g ref="char:EOLhyphen"/>ber of <hi>London,</hi> the firſt day of <hi>May,</hi> 1674. (when the Work was firſt begun) upon the Coal Duty at 4d. ½. <hi>per</hi> Chal<g ref="char:EOLhyphen"/>dron</cell>
+                        <cell>12038</cell>
+                        <cell>05</cell>
+                        <cell>03</cell>
+                        <cell rows="2">12707</cell>
+                        <cell rows="2">01</cell>
+                        <cell rows="2">02</cell>
+                        <cell rows="4">40525</cell>
+                        <cell rows="4">10</cell>
+                        <cell rows="4">3¼</cell>
+                     </row>
+                     <row>
+                        <cell>Upon free Gifts, Legacies, <hi>&amp;c.</hi>
+                        </cell>
+                        <cell>00668</cell>
+                        <cell>15</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>Brought more into the Cham<g ref="char:EOLhyphen"/>ber aforeſaid upon the ſaid Du<g ref="char:EOLhyphen"/>ty of Coals, from the ſaid firſt day of <hi>May,</hi> 1674. to the firſt of <hi>May,</hi> 1678.</cell>
+                        <cell>18144</cell>
+                        <cell>04</cell>
+                        <cell>01½</cell>
+                        <cell rows="2">27888</cell>
+                        <cell rows="2">09</cell>
+                        <cell rows="2">1¾</cell>
+                     </row>
+                     <row>
+                        <cell>And upon free Gifts, <hi>&amp;c.</hi>
+                        </cell>
+                        <cell>09674</cell>
+                        <cell>05</cell>
+                        <cell>00¼</cell>
+                     </row>
+                     <row>
+                        <cell cols="4">Out of which hath been paid and disburſed in the ſaid Building from the firſt day of <hi>May,</hi> 1674. to the firſt of <hi>May,</hi> 1678. including the Carting away of 28000 Loads of Rubbiſh; breaking up 11133 cubical yards of old Foun<g ref="char:EOLhyphen"/>dation Walls, with Scaffolding, and taking down old Walls, amounting to 4000 l. and up<g ref="char:EOLhyphen"/>wards</cell>
+                        <cell>33000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell rows="2">36000</cell>
+                        <cell rows="2">00</cell>
+                        <cell rows="2">00</cell>
+                     </row>
+                     <row>
+                        <cell cols="4">Beſides there is due upon a reaſonable conje<g ref="char:EOLhyphen"/>cture for Scaffolding and other Materials, Ma<g ref="char:EOLhyphen"/>ſons work not yet meaſured, the ſeveral Ac<g ref="char:EOLhyphen"/>counts not being yet Audited</cell>
+                        <cell>03000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur.</p>
+            <closer>
+               <dateline>Dat. <date>xiv. <hi>Jun.</hi> 1678.</date>
+               </dateline>
+               <signed>H. LONDON.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
